@@ -1,4 +1,4 @@
-# South Dakota Debate
+# The State of SD Debate
 Hi. Here's everything I used in my project.
 
 This is an explanation of the files in the **data** folder:
